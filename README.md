@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games /Console/ Desktop Apps/ WebApps Developing. 
 - 🌱 I’m currently learning Avalonia /ASP.Net/ Unity frameworks.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: https://vk.com/lilalokikali
 
 <!---
 Joseph-Lila/Joseph-Lila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
